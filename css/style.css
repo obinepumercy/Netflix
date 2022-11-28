@@ -26,12 +26,6 @@ header {
     height: 2.54rem;
 }
 
-#chevron {
-    width: 2rem;
-    /* color: white; */
-    fill-rule: evenodd;
-    /* fill: white; */
-}
 
 .header_container {
     display: flex;
@@ -167,7 +161,11 @@ video {
 }
 
 #download {
-    width: 1.5rem;
+    width: 2rem;
+}
+
+.right-arrow{
+    width: 2.5rem;
 }
 
 .stranger_things {
